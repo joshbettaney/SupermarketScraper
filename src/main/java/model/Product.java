@@ -1,16 +1,24 @@
 package model;
 
+import javax.persistence.*;
+
 /**
  * @author Joshua Bettaney*
  * A class to model the products that are scraped from the supermarket websites.
  */
+@Entity
+@Table(name = "product")
 public class Product {
 
-
+    @Id
+    @GeneratedValue
+    private int id;
     /** Name identifier for product object. */
+    @Column(name = "prod_name")
     private String name;
     /** Price of product object. */
-    private float price;
+    @Column(name = "prod_price")
+    private double price;
     /** Supermarket identifier for product object. */
     private int supermarketID;
 
@@ -21,12 +29,19 @@ public class Product {
      * @param productSupermarketID - Supermarket identifier for product object.
      */
     public Product(final String productName,
-                   final float productPrice,
+                   final double productPrice,
                    final int productSupermarketID) {
         this.name = productName;
         this.price = productPrice;
         this.supermarketID = productSupermarketID;
     }
+
+    /**
+     * Default Constructor for Hibernate to generate objects.
+     */
+    public Product() {
+    }
+
     /**
      * Getter method for getting the products name.
      * @return String
@@ -39,7 +54,7 @@ public class Product {
      * Getter method for getting the products price.
      * @return float
      */
-    public float getPrice() {
+    public double getPrice() {
         return price;
     }
 
@@ -63,7 +78,11 @@ public class Product {
      * Setter method for product price.
      * @param productPrice float.
      */
-    public void setPrice(final float productPrice) {
+    public void setPrice(final double productPrice) {
         this.price = productPrice;
+    }
+
+    public int getId() {
+        return id;
     }
 }
