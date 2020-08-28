@@ -36,6 +36,8 @@ public class Product {
         this.supermarketID = productSupermarketID;
     }
 
+
+
     /**
      * Default Constructor for Hibernate to generate objects.
      */

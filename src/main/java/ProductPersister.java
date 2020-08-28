@@ -80,7 +80,7 @@ public class ProductPersister {
         Session session = sessionFactory.openSession();
         session.beginTransaction();
         Product product = session.find(Product.class, prodID);
-        session.delete(prodID);
+        session.delete(product);
         session.close();
         return product;
     }
@@ -92,7 +92,7 @@ public class ProductPersister {
     public List<Product> listProducts() {
         Session session = sessionFactory.openSession();
         session.beginTransaction();
-        List<Product> products = (List<Product>) session.createQuery("from product").list();
+        List<Product> products = (List<Product>) session.createQuery("from Product").list();
         session.close();
         return products;
     }

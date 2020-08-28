@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0431af19-02a4-4417-86e6-0d767e7166fd" name="Default Changelist" comment="" />
+    <list default="true" id="0431af19-02a4-4417-86e6-0d767e7166fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ProductPersister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ProductPersister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProductPersister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProductPersister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -18,43 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scraper/Scraper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#1175#1176#0" expanded="true" />
-                <element signature="e#1202#1203#0" expanded="true" />
-                <element signature="e#1323#1324#0" expanded="true" />
-                <element signature="e#1351#1352#0" expanded="true" />
-                <element signature="e#1503#1504#0" expanded="true" />
-                <element signature="e#1539#1540#0" expanded="true" />
-                <element signature="e#1680#1681#0" expanded="true" />
-                <element signature="e#1719#1720#0" expanded="true" />
-                <element signature="e#1466#1467#0" expanded="true" />
-                <element signature="e#1500#1501#0" expanded="true" />
-                <element signature="e#1983#1984#0" expanded="true" />
-                <element signature="e#2008#2009#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ProductPersister.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            <state relative-caret-position="119">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,28 +38,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="266">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/Product.hbm.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PersisterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProjectTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="102">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProductPersister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="96" column="24" lean-forward="true" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,9 +89,9 @@
       <list>
         <option value="Interface" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Tag Library Descriptor" />
         <option value="hibernate.cfg.xml" />
+        <option value="Class" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
@@ -477,12 +470,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/scraper/Scraper.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/package-info.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/model/Product.hbm.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/model/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProductPersister.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PersisterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProjectTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ModelTest.java" />
       </list>
     </option>
   </component>
@@ -493,10 +489,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-470" />
-    <option name="y" value="-33" />
-    <option name="width" value="2425" />
-    <option name="height" value="1103" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -506,6 +501,63 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -549,52 +601,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="supermarket_scraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SupermarketScraper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598379767341" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598637620065" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -615,7 +631,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductPersister">
+  <component name="RunManager" selected="JUnit.ProjectTestSuite">
     <configuration name="ProductPersister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProductPersister" />
       <module name="supermarket_scraper_main" />
@@ -641,12 +657,42 @@
       </ExternalSystemSettings>
       <method v="2" />
     </configuration>
+    <configuration name="ModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="supermarket_scraper_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ModelTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersisterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="supermarket_scraper_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersisterTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="supermarket_scraper_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProjectTestSuite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ProductPersister" />
       <item itemvalue="Gradle.SupermarketScraper [dependencies]" />
+      <item itemvalue="JUnit.ModelTest" />
+      <item itemvalue="JUnit.PersisterTest" />
+      <item itemvalue="JUnit.ProjectTestSuite" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProjectTestSuite" />
+        <item itemvalue="JUnit.PersisterTest" />
+        <item itemvalue="JUnit.ModelTest" />
         <item itemvalue="Application.ProductPersister" />
         <item itemvalue="Gradle.SupermarketScraper [dependencies]" />
       </list>
@@ -664,28 +710,60 @@
       <updated>1597229835340</updated>
       <workItem from="1597229843678" duration="885000" />
       <workItem from="1597527339262" duration="14267000" />
+      <workItem from="1598634208185" duration="3398000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 39m 14s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 41m 46s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 45m 48s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 47m 27s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 48m 30s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 49m 42s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 52m 06s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersisterTest - 2020.08.28 at 18h 53m 58s.xml">
+      <configuration name="PersisterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectTestSuite - 2020.08.28 at 18h 59m 10s.xml">
+      <configuration name="ProjectTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectTestSuite - 2020.08.28 at 19h 00m 15s.xml">
+      <configuration name="ProjectTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15152000" />
+    <option name="totallyTimeSpent" value="18550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Persistence" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19865772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20134228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32963988" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Persistence" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -696,6 +774,8 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32963988" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -722,36 +802,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hibernate.cfg.xml.">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hibernate.cfg.xml." />
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.hbm.xml.">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Product.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.hbm.xml." />
     <entry file="file://$PROJECT_DIR$/src/main/java/scraper/Scraper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -759,31 +814,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Product.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#1175#1176#0" expanded="true" />
-            <element signature="e#1202#1203#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1539#1540#0" expanded="true" />
-            <element signature="e#1680#1681#0" expanded="true" />
-            <element signature="e#1719#1720#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#1983#1984#0" expanded="true" />
-            <element signature="e#2008#2009#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ProductPersister.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        <state relative-caret-position="408">
+          <caret line="96" column="24" lean-forward="true" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PersisterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProjectTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -793,6 +885,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -806,6 +922,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -815,8 +932,22 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>supermarket_scraper_test|supermarket_scraper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
