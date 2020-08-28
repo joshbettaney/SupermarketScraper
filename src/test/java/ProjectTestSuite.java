@@ -8,7 +8,7 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        ModelTest.class, PersisterTest.class
+        ModelTest.class,
 })
 public class ProjectTestSuite {
 }

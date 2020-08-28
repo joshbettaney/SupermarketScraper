@@ -20,6 +20,7 @@ public class PersisterTest extends TestCase {
         initialSize = persister.listProducts().size();
     }
 
+    /**
     public void testCreate(){
         persister.createProduct(testProduct);
         int newAmountOfProducts = persister.listProducts().size();
@@ -34,5 +35,5 @@ public class PersisterTest extends TestCase {
         assertEquals(initialSize, newAmountOfProducts);
 
     }
-
+*/
 }
