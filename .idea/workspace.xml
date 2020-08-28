@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PersisterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+            <state relative-caret-position="85">
+              <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ProjectTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -438,8 +438,8 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/model/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProductPersister.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ProjectTestSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/ModelTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProjectTestSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/PersisterTest.java" />
       </list>
     </option>
@@ -568,7 +568,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598638184487" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598638469388" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -672,17 +672,11 @@
       <updated>1597229835340</updated>
       <workItem from="1597229843678" duration="885000" />
       <workItem from="1597527339262" duration="14267000" />
-      <workItem from="1598634208185" duration="3940000" />
+      <workItem from="1598634208185" duration="4249000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PersisterTest - 2020.08.28 at 18h 39m 14s.xml">
-      <configuration name="PersisterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersisterTest - 2020.08.28 at 18h 41m 46s.xml">
-      <configuration name="PersisterTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PersisterTest - 2020.08.28 at 18h 45m 48s.xml">
       <configuration name="PersisterTest" configurationId="JUnit" />
     </history-entry>
@@ -707,15 +701,21 @@
     <history-entry file="ProjectTestSuite - 2020.08.28 at 19h 00m 15s.xml">
       <configuration name="ProjectTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProjectTestSuite - 2020.08.28 at 19h 09m 30s.xml">
+      <configuration name="ProjectTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProjectTestSuite - 2020.08.28 at 19h 09m 47s.xml">
+      <configuration name="ProjectTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19092000" />
+    <option name="totallyTimeSpent" value="19401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20134228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20134228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -725,7 +725,7 @@
       <window_info id="Persistence" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889196" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -826,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ProjectTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -836,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PersisterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+        <state relative-caret-position="85">
+          <caret line="5" column="58" lean-forward="true" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

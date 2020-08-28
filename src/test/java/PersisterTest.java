@@ -3,7 +3,7 @@ import model.Product;
 
 
 /**
- * Test class for testing the DAO class 'ProductPersister'.
+ * Test class for testing the DAO class 'ProductPersister'
  * @author Joshua Bettaney
  */
 public class PersisterTest extends TestCase {
